@@ -72,6 +72,9 @@ B：赤さびみたいなものが発生。酸化物ができているけど、�
 これでマイナス端子からどれだけ、ニッケルがイオン化したがわかりそう。
 熱効率もわかりそうなので、どれだけ熱が発生して、酸化しているかがわかりそう。
 
+http://sekigin.jp/03corro/02corro/01cor_steel/cor_steel_05/steel05_40.html
+https://yaku-tik.com/denken/k-faradays-law/
+https://pinealpha.jp/school/archives/474
 
 ■亜鉛めっきとしんちゅう
 電気抵抗のオーダー数は変わらない。
